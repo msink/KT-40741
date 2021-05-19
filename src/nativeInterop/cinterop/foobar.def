@@ -1,0 +1,5 @@
+package = foobar
+
+---
+struct foo;
+struct bar {};
